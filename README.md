@@ -7,7 +7,6 @@ This project is an interactive Hospital Emergency Room Dashboard created using M
 
 The dashboard is designed to analyze hospital data efficiently and present it in a clear and visual format.
 
----
 
 ## 🎯 Objectives
 - Analyze patient inflow in emergency rooms
@@ -15,7 +14,7 @@ The dashboard is designed to analyze hospital data efficiently and present it in
 - Identify peak hours and busy days
 - Improve hospital resource management
 
----
+
 
 ## 🛠️ Tools & Technologies Used
 - Microsoft Excel
@@ -24,7 +23,7 @@ The dashboard is designed to analyze hospital data efficiently and present it in
 - Slicers
 - Data Cleaning & Formatting
 
----
+
 
 ## 📊 Key Features
 - Interactive dashboard with filters (year, department, etc.)
@@ -33,7 +32,6 @@ The dashboard is designed to analyze hospital data efficiently and present it in
 - Time-based trends visualization
 - Clean and user-friendly layout
 
----
 
 ## 📁 Dataset Details
 The dataset includes:
@@ -42,7 +40,6 @@ The dataset includes:
 - Date and time of visit
 - Emergency case categories
 
----
 
 ## 🚀 How to Use
 1. Download the Excel file
@@ -50,7 +47,6 @@ The dataset includes:
 3. Use slicers to filter data
 4. Explore insights from charts and tables
 
----
 
 ## 📈 Insights Gained
 - Identified peak emergency hours
@@ -58,14 +54,12 @@ The dataset includes:
 - Observed patient trends over time
 - Helped in better resource planning
 
----
 
 ## 💡 Future Improvements
 - Add Power BI version of dashboard
 - Include real-time data integration
 - Advanced analytics using Python
 
----
 
 ## 🙋‍♀️ Author
 Mansi Gupta
